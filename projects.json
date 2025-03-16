@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Jhumka Store",
+    "description": "The first-ever website I built. Simple, but it got me started.",
+    "tech": ["HTML", "Bootstrap", "CSS", "ChatGPT"],
+    "link": "https://hems-jhumka.netlify.app",
+    "type": "Frontend"
+  },
+  {
+    "title": "Portfolio V1",
+    "description": "My first portfolio website. Nothing fancy, just a start.",
+    "tech": ["HTML", "CSS"],
+    "link": "https://himeshpremji.netlify.app",
+    "type": "Frontend"
+  },
+  {
+    "title": "Spectra Play",
+    "description": "First semester project with a 5-member team. Took around 20 days—or a month.",
+    "tech": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    "link": "https://himeshdua.github.io/SpectraPlay",
+    "type": "Frontend"
+  },
+  {
+    "title": "Green Money",
+    "description": "Experimented with animations while recreating Pinterest-like visuals. Dark section has the best effects.",
+    "tech": ["JavaScript", "GSAP", "Tailwind"],
+    "link": "https://hems-greenmoney.netlify.app",
+    "type": "Anim"
+  },
+  {
+    "title": "Space Explorers",
+    "description": "Full-page animated experience with SVGs, smooth scrolling, and text effects. Took 3 weeks to optimize this beast!",
+    "tech": ["GSAP", "JavaScript", "Lenis", "Split-type"],
+    "link": "https://himeshdua.github.io/SpaceExplorers",
+    "type": "Anim"
+  },
+  {
+    "title": "Dead SKULL",
+    "description": "A page with 3D models, background effects, and seamless transitions.",
+    "tech": ["Three.js", "Vinta", "JavaScript"],
+    "link": "https://himeshdua.github.io/ThreejsModelling",
+    "type": "Anim"
+  },
+  {
+    "title": "MORESPEC UI",
+    "description": "Tried making a cool animated UI. Learned that GSAP & plain HTML isn't the best combo.",
+    "tech": ["GSAP", "JavaScript"],
+    "link": "https://himeshdua.github.io/Morespec",
+    "type": "Anim"
+  },
+  {
+    "title": "Space Explorers (Raw)",
+    "description": "Same as above, but unoptimized—showing how much performance matters.",
+    "tech": ["GSAP", "JavaScript", "Lenis", "Split-type"],
+    "link": "https://himeshdua.github.io/Unoptimized-SpaceExplorers",
+    "type": "Anim"
+  },
+  {
+    "title": "Navbar Animation",
+    "description": "A landing page with smooth GSAP animations from my early experiments.",
+    "tech": ["JavaScript", "GSAP", "Tailwind"],
+    "link": "https://himeshdua.github.io/AnimatedPortfolio",
+    "type": "Anim"
+  },
+  {
+    "title": "Loaders Pack",
+    "description": "A collection of custom loading animations with background effects.",
+    "tech": ["GSAP", "Vinta", "JavaScript"],
+    "link": "https://himeshdua.github.io/AnimatedLoaders",
+    "type": "Anim"
+  },
+  {
+    "title": "Maniks API",
+    "description": "Built a small API to fetch card data via GitHub—basic but functional.",
+    "tech": ["JSON", "JavaScript"],
+    "image": "https://raw.githubusercontent.com/HimeshPremji/ManiksData/refs/heads/main/graphics/e1.webp",
+    "type": "Backend"
+  },
+  {
+    "title": "Aunty Palace",
+    "description": "Designed a simple online store for women's accessories. For the first time I tried filtering using JavaScript",
+    "tech": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    "link": "https://aunty-palace.netlify.app",
+    "type": "Frontend"
+  },
+  {
+    "title": "Hems Constructions",
+    "description": "An early project from my learning phase. Not the most responsive, but it got me coding.",
+    "tech": ["HTML", "CSS", "Bootstrap"],
+    "link": "https://hems-constructions.netlify.app",
+    "type": "Frontend"
+  },
+  {
+    "title": "Admin Panel UI",
+    "description": "A simple admin panel UI built as a favor for a friend.",
+    "tech": ["HTML", "CSS", "Bootstrap"],
+    "link": "https://hems-adminpanel.netlify.app",
+    "type": "Frontend"
+  }
+]
