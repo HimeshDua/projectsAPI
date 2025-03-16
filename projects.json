@@ -77,6 +77,23 @@
     "type": "Backend"
   },
   {
+    "title": "Himesh Dua - Portfolio",
+    "description": "A modern developer portfolio built with Next.js and Appwrite backend. Features dynamic project listings powered by environment variables, sleek UI with Tailwind CSS, smooth animations via Framer Motion, and form handling with Besan Form. Deployed on Netlify with CI/CD workflow and secured with best practices.",
+    "tech": [
+      "Next.js",
+      "Appwrite",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Netlify",
+      "CI/CD",
+      "Environment Variables",
+      "Besan Form",
+      "TypeScript"
+    ],
+    "link": "https://himeshpremji.netlify.app",
+    "type": "Fullstack"
+  },
+  {
     "title": "Aunty Palace",
     "description": "Designed a simple online store for women's accessories. For the first time I tried filtering using JavaScript",
     "tech": ["HTML", "CSS", "Bootstrap", "JavaScript"],
