@@ -18,6 +18,7 @@
   "description": "My first fullstack social media app with auth, posts, likes, and explore feed. Took time to set up backend properly with Clerk and Prisma.",
   "tech": ["Next.js", "PostgreSQL", "Prisma", "Neon", "Clerk", "Shadcn"],
   "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially.png",
+  "link": "https://socially-hems.vercel.app",
   "type": "Fullstack"
 },
   {
