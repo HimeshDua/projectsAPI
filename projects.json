@@ -14,6 +14,13 @@
     "type": "Frontend"
   },
   {
+  "title": "Socially",
+  "description": "My first fullstack social media app with auth, posts, likes, and explore feed. Took time to set up backend properly with Clerk and Prisma.",
+  "tech": ["Next.js", "PostgreSQL", "Prisma", "Neon", "Clerk", "Shadcn"],
+  "link": "https://socailly-hems.vercel.app",
+  "type": "Fullstack"
+},
+  {
     "title": "Spectra Play",
     "description": "First semester project with a 5-member team. Took around 20 days—or a month.",
     "tech": ["HTML", "CSS", "Bootstrap", "JavaScript"],
