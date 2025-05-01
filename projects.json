@@ -17,7 +17,7 @@
     "title": "Reserve",
     "description": "A full-stack productivity app built with Next.js 15. Helps users stay consistent with clean UI, fast performance, and simple scheduling features.",
     "tech": ["Next.js", "Prisma", "Neon", "Next Auth", "Shadcn"],
-    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Resserve.png",
     "link": "https://resserve.vercel.app",
     "type": "Fullstack"
   },
