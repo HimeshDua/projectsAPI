@@ -14,6 +14,15 @@
     "type": "Frontend"
   },
     {
+  "title": "Reserve",
+  "description": "Reserve is a sleek full-stack app built with Next.js 15, Prisma ORM, Tailwind, and Shadcn UI. It helps users stay consistent and organized with a clean, fast, and intuitive experience.",
+  "tech": ["Next.js", "Prisma", "Neon", "Next Auth", "Shadcn"],
+  "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+  "link": "https:// resserve.vercel.app",
+  "type": "Fullstack"
+},
+  },
+    {
   "title": "Decision Dex",
   "description": "Streamline your decisions with clarity and confidence. Make decisions making by adding options to your decisions and set its priorities with stats dashboard ",
   "tech": ["Next.js","Prisma", "Neon", "Next Auth", "Shadcn"],
