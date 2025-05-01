@@ -1,149 +1,104 @@
 [
   {
     "title": "Jhumka Store",
-    "description": "The first-ever website I built. Simple, but it got me started.",
+    "description": "My first-ever website. A simple e-commerce layout that kicked off my web dev journey.",
     "tech": ["HTML", "Bootstrap", "CSS", "ChatGPT"],
     "link": "https://hems-jhumka.netlify.app",
     "type": "Frontend"
   },
   {
     "title": "Portfolio V1",
-    "description": "My first portfolio website. Nothing fancy, just a start.",
+    "description": "My first personal portfolio—basic, but it marked the beginning.",
     "tech": ["HTML", "CSS"],
     "link": "https://himeshpremji.netlify.app",
     "type": "Frontend"
   },
-    {
-  "title": "Reserve",
-  "description": "Reserve is a sleek full-stack app built with Next.js 15, Prisma ORM, Tailwind, and Shadcn UI. It helps users stay consistent and organized with a clean, fast, and intuitive experience.",
-  "tech": ["Next.js", "Prisma", "Neon", "Next Auth", "Shadcn"],
-  "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
-  "link": "https:// resserve.vercel.app",
-  "type": "Fullstack"
-},
   {
-  "title": "Decision Dex",
-  "description": "Streamline your decisions with clarity and confidence. Make decisions making by adding options to your decisions and set its priorities with stats dashboard ",
-  "tech": ["Next.js","Prisma", "Neon", "Next Auth", "Shadcn"],
-  "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
-  "link": "https:// decisiondex.vercel.app",
-  "type": "Fullstack"
-},
-    {
-  "title": "Streaksvr",
-  "description": "Create Streaks and Challenge yourself by giving tasks to yourself and completing it.",
-  "tech": ["Next.js", "Prisma", "Neon", "Clerk", "Shadcn"],
-  "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
-  "link": "https://streaksvr.vercel.app",
-  "type": "Fullstack"
-},
+    "title": "Reserve",
+    "description": "A full-stack productivity app built with Next.js 15. Helps users stay consistent with clean UI, fast performance, and simple scheduling features.",
+    "tech": ["Next.js", "Prisma", "Neon", "Next Auth", "Shadcn"],
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+    "link": "https://resserve.vercel.app",
+    "type": "Fullstack"
+  },
   {
-  "title": "Socially",
-  "description": "Social media app with followers suggestions, likes, post and explore feed.",
-  "tech": ["Next.js", "Prisma", "Neon", "Clerk", "Shadcn"],
-  "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
-  "link": "https://socially-hems.vercel.app",
-  "type": "Fullstack"
-},
+    "title": "Decision Dex",
+    "description": "A decision-making tool where users can set priorities, add options, and analyze choices with visual stats. Clarity meets action.",
+    "tech": ["Next.js", "Prisma", "Neon", "Next Auth", "Shadcn"],
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+    "link": "https://decisiondex.vercel.app",
+    "type": "Fullstack"
+  },
+  {
+    "title": "Streaksvr",
+    "description": "Track and build personal streaks with self-assigned tasks. Great for habit-building and self-challenges.",
+    "tech": ["Next.js", "Prisma", "Neon", "Clerk", "Shadcn"],
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+    "link": "https://streaksvr.vercel.app",
+    "type": "Fullstack"
+  },
+  {
+    "title": "Socially",
+    "description": "A full-stack social media app with explore feed, followers suggestions, likes, posts, and more.",
+    "tech": ["Next.js", "Prisma", "Neon", "Clerk", "Shadcn"],
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+    "link": "https://socially-hems.vercel.app",
+    "type": "Fullstack"
+  },
   {
     "title": "Spectra Play",
-    "description": "First semester project with a 5-member team. Took around 20 days—or a month.",
+    "description": "A group project built in 20–30 days during my first semester. Learned teamwork, design flow, and time management.",
     "tech": ["HTML", "CSS", "Bootstrap", "JavaScript"],
     "link": "https://himeshdua.github.io/SpectraPlay",
     "type": "Frontend"
   },
   {
     "title": "Green Money",
-    "description": "Experimented with animations while recreating Pinterest-like visuals. Dark section has the best effects.",
+    "description": "An animation experiment inspired by Pinterest. The dark section has some of my best animation work.",
     "tech": ["JavaScript", "GSAP", "Tailwind"],
     "link": "https://hems-greenmoney.netlify.app",
     "type": "Anim"
   },
   {
     "title": "Space Explorers",
-    "description": "Full-page animated experience with SVGs, smooth scrolling, and text effects. Took 3 weeks to optimize this beast!",
+    "description": "A scroll-based animation experience with SVGs, smooth transitions, and text reveals. Took 3 weeks to fully optimize.",
     "tech": ["GSAP", "JavaScript", "Lenis", "Split-type"],
     "link": "https://himeshdua.github.io/SpaceExplorers",
     "type": "Anim"
   },
   {
     "title": "Dead SKULL",
-    "description": "A page with 3D models, background effects, and seamless transitions.",
+    "description": "A creative animation project with 3D models, trippy background effects, and smooth scene transitions.",
     "tech": ["Three.js", "Vinta", "JavaScript"],
     "link": "https://himeshdua.github.io/ThreejsModelling",
     "type": "Anim"
   },
   {
     "title": "MORESPEC UI",
-    "description": "Tried making a cool animated UI. Learned that GSAP & plain HTML isn't the best combo.",
+    "description": "A fun UI animation experiment. Learned why mixing plain HTML with GSAP has its limits.",
     "tech": ["GSAP", "JavaScript"],
     "link": "https://himeshdua.github.io/Morespec",
     "type": "Anim"
   },
   {
     "title": "Space Explorers (Raw)",
-    "description": "Same as above, but unoptimized—showing how much performance matters.",
+    "description": "The unoptimized version of Space Explorers—great for comparing performance and improvements.",
     "tech": ["GSAP", "JavaScript", "Lenis", "Split-type"],
     "link": "https://himeshdua.github.io/Unoptimized-SpaceExplorers",
     "type": "Anim"
   },
   {
     "title": "Navbar Animation",
-    "description": "A landing page with smooth GSAP animations from my early experiments.",
+    "description": "One of my early landing page attempts using GSAP and Tailwind. Smooth animations, clean structure.",
     "tech": ["JavaScript", "GSAP", "Tailwind"],
     "link": "https://himeshdua.github.io/AnimatedPortfolio",
     "type": "Anim"
   },
   {
     "title": "Loaders Pack",
-    "description": "A collection of custom loading animations with background effects.",
+    "description": "A collection of creative loader animations with visual effects and transitions.",
     "tech": ["GSAP", "Vinta", "JavaScript"],
     "link": "https://himeshdua.github.io/AnimatedLoaders",
     "type": "Anim"
-  },
-  {
-    "title": "Maniks API",
-    "description": "Built a small API to fetch card data via GitHub—basic but functional.",
-    "tech": ["JSON", "JavaScript"],
-    "image": "https://raw.githubusercontent.com/HimeshPremji/ManiksData/refs/heads/main/graphics/e1.webp",
-    "type": "Backend"
-  },
-  {
-    "title": "Himesh Dua - Portfolio",
-    "description": "A modern developer portfolio built with Next.js and Appwrite backend. Features dynamic project listings powered by environment variables, sleek UI with Tailwind CSS, smooth animations via Framer Motion, and form handling with Besan Form. Deployed on Netlify with CI/CD workflow and secured with best practices.",
-    "tech": [
-      "Next.js",
-      "Appwrite",
-      "Tailwind CSS",
-      "Framer Motion",
-      "Netlify",
-      "CI/CD",
-      "Environment Variables",
-      "Besan Form",
-      "TypeScript"
-    ],
-    "link": "https://himeshdua.vercel.app",
-    "type": "Fullstack"
-  },
-  {
-    "title": "Aunty Palace",
-    "description": "Designed a simple online store for women's accessories. For the first time I tried filtering using JavaScript",
-    "tech": ["HTML", "CSS", "Bootstrap", "JavaScript"],
-    "link": "https://aunty-palace.netlify.app",
-    "type": "Frontend"
-  },
-  {
-    "title": "Hems Constructions",
-    "description": "An early project from my learning phase. Not the most responsive, but it got me coding.",
-    "tech": ["HTML", "CSS", "Bootstrap"],
-    "link": "https://hems-constructions.netlify.app",
-    "type": "Frontend"
-  },
-  {
-    "title": "Admin Panel UI",
-    "description": "A simple admin panel UI built as a favor for a friend.",
-    "tech": ["HTML", "CSS", "Bootstrap"],
-    "link": "https://hems-adminpanel.netlify.app",
-    "type": "Frontend"
   }
 ]
