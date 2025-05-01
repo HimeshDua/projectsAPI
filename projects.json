@@ -33,7 +33,7 @@
     "title": "Streaksvr",
     "description": "Track and build personal streaks with self-assigned tasks. Great for habit-building and self-challenges.",
     "tech": ["Next.js", "Prisma", "Neon", "Clerk", "Shadcn"],
-    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Streaksvr.png",
     "link": "https://streaksvr.vercel.app",
     "type": "Fullstack"
   },
