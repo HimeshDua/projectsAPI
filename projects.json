@@ -13,10 +13,26 @@
     "link": "https://himeshpremji.netlify.app",
     "type": "Frontend"
   },
+    {
+  "title": "Decision Dex",
+  "description": "Streamline your decisions with clarity and confidence. Make decisions making by adding options to your decisions and set its priorities with stats dashboard ",
+  "tech": ["Next.js","Prisma", "Neon", "Next Auth", "Shadcn"],
+  "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+  "link": "https:// decisiondex.vercel.app",
+  "type": "Fullstack"
+},
+    {
+  "title": "Streaksvr",
+  "description": "Create Streaks and Challenge yourself by giving tasks to yourself and completing it.",
+  "tech": ["Next.js", "Prisma", "Neon", "Clerk", "Shadcn"],
+  "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
+  "link": "https://streaksvr.vercel.app",
+  "type": "Fullstack"
+},
   {
   "title": "Socially",
-  "description": "My first fullstack social media app with auth, posts, likes, and explore feed. Took time to set up backend properly with Clerk and Prisma.",
-  "tech": ["Next.js", "PostgreSQL", "Prisma", "Neon", "Clerk", "Shadcn"],
+  "description": "Social media app with followers suggestions, likes, post and explore feed.",
+  "tech": ["Next.js", "Prisma", "Neon", "Clerk", "Shadcn"],
   "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Socially-light.png",
   "link": "https://socially-hems.vercel.app",
   "type": "Fullstack"
