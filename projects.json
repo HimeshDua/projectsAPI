@@ -14,6 +14,14 @@
     "type": "Frontend"
   },
   {
+    "title": "Dev Grade",
+    "description": "DevGrade is a tool to assess your developer profile based on your GitHub activity. It provides a grade reflecting your skills and potential, along with embeddable badges for HTML and React websites to showcase your verified DevGrade.",
+    "tech": ["Next.js", "MongoDB", "Mongo Atlas Cloud", "Shadcn"],
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/Resserve.png",
+    "link": "https://devgrade.vercel.app",
+    "type": "Fullstack"
+  },
+  {
     "title": "Reserve",
     "description": "A full-stack productivity app built with Next.js 15. Helps users stay consistent with clean UI, fast performance, and simple scheduling features.",
     "tech": ["Next.js", "Prisma", "Neon", "Next Auth", "Shadcn"],
