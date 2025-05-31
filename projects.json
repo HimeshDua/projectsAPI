@@ -18,6 +18,7 @@
     "description": "DevGrade is a tool to assess your developer profile based on your GitHub activity. It provides a grade reflecting your skills and potential, along with embeddable badges for HTML and React websites to showcase your verified DevGrade.",
     "tech": ["Next.js", "MongoDB", "Mongo Atlas Cloud", "Shadcn"],
     "link": "https://devgrade.vercel.app",
+    "image": "https://raw.githubusercontent.com/HimeshDua/ManiksData/refs/heads/main/devgrade.png",
     "type": "Fullstack"
   },
   {
